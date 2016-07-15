@@ -1,5 +1,19 @@
 # GrassyKnoll
 
+What is it?
+----
+
+Anemometer-responsive LED matrix animations on a Raspberry Pi, designed to look like grass blowing in the wind. 
+
+![grassy](http://i.imgur.com/TUlSLOH.png)
+![grassy](http://i.imgur.com/OSjcz6f.jpg)
+
+And a bonus photo with our art neighbor Stan's totally amazing inflatables. 
+
+![grassy](http://i.imgur.com/XniOTVK.jpg)
+
+See it in action: https://vimeo.com/174775305
+
 Hardware requirements: a raspberry pi connected to a chain of four 32x32 RGB LED matrix panels (e.g. adafruit) using a matrix hat (adafru.it/2345). The panels must be arranged in a grid like so:
 
 ```
